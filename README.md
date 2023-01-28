@@ -18,7 +18,7 @@ PC Anaconda - Python 3.7
 ## PROGRAM:
 ```
 #Program for reading a content from csv file 
-#Developed By : KANISHKAR M
+#Developed By : Jayakrishnan L B L
 #Referance No. : 22003251
 import pandas as pd
 df=pd.read_csv('nba.csv')
